@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "Zerodha_Trade": {
+      "command": "/home/shyam/.bun/bin/bun",
+      "args": [
+        "/home/shyam/shyam/MCP-SERVER/Zerodha_Trade/index.ts"
+      ]
+    }
+  }
+}
